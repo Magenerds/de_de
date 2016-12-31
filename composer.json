@@ -1,7 +1,7 @@
 {
   "name": "magenerds/language-de_de",
   "description": "German (Germany) language",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "require": {
     "magento/framework": "100.1.*"
   },

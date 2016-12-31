@@ -1849,7 +1849,7 @@ Custom Design From,Benutzerdefiniertes Design von
 Custom design from,Benutzerdefiniertes Design von
 Custom Design To,Benutzerdefiniertes Design bis
 Custom design to,Benutzerdefiniertes Design bis
-Custom Design Update,Benutzerdefiniertes Design-Update
+Custom Design Update,Benutzerdefiniertes Design-Update 
 Custom Email 1,Eigene E-Mail 1
 Custom Email 2,Eigene E-Mail 2
 Custom Endpoint Hostname or IP-Address,Benutzerdefinierter Endpoint-Hostname oder IP-Adresse
@@ -2173,7 +2173,7 @@ Description Message,Beschreibungsmeldung
 Deselect All,Auswahl aufheben
 Design,Design
 Design Change,Designänderung
-Design Config Grid,Designkonfigurationstabelle
+Design Config Grid,Designkonfigurationstabelle 
 Design config must have area and store.,Design-Konfiguration muss einen Bereich und Store haben.
 Design Configuration,Design-Konfiguration
 Design Package/Theme,Design-Paket/Theme
@@ -2433,7 +2433,7 @@ element tooltip,Element-Tooltip
 Element with ID '%1' already exists.,"Elemente mit der ID ""%1"" existieren bereits"
 Element with ID '%1' is already defined.,"Elemente mit der ID ""%1"" sind bereits definiert"
 Elements,Elemente
-Email,E-Mail
+Email,E-Mail  
 Email address,E-Mail-Adresse
 Email Address,E-Mail-Adresse
 "Email address impact. The customer uses a free email provider, or the email address is risky",E-Mail-Adressen-Auswirkung. Der Kunde verwendet einen kostenlosen E-Mail-Provider oder die E-Mail-Adresse ist riskant.
@@ -3523,8 +3523,8 @@ Invalid date,Ungültiges Datum
 Invalid date specified,Ungültiges Datum angegeben
 Invalid default date,Ungültiges Standarddatum
 Invalid default decimal value,Ungültiger Standard-Dezimalwert
-"Invalid Document
-Invalid domain name:
+"Invalid Document 
+Invalid domain name: 
 Invalid order
 Invalid product list type
 Invalid RMA
@@ -3761,7 +3761,7 @@ Last Transaction ID,Letzte Transaktions-ID
 Last Update,Letztes Update
 "Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Letztes Update: %1. Um die <a href=""%2"">Statistik</a> des letzten Tages zu aktualisieren, <a href=""%3"">hier klicken</a>."
 "Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","Zuletzt aktualisiert: %1. Um die <a href=""%2"">Statistiken</a> des letzten Tages zu aktualisieren, <a href=""%3"">hier</a> klicken."
-Layered Navigation,Filternavigation
+Layered Navigation,Filternavigation  
 Layered Navigation Price Step,Filternavigation Preisstufen
 Layout,Layout
 Layout building instructions.,Layout-Bauanleitung.
@@ -4679,7 +4679,7 @@ Order tracking,Bestellverfolgung
 Order Updated,Bestellung aktualisiert
 Order Valid Period (days),Gültigskeitsdauer von Bestellungen (Tage)
 Order View,Bestellübersicht
-order-header,Bestellungs-Kopfzeile
+order-header,order-header
 Ordered,Bestellt
 ordered,Bestellt
 Ordered amount of %1,Bestellte Menge von %1
@@ -4956,7 +4956,7 @@ Phrase 2 %1,Ausdruck 2 %1
 Phrase 2 with %a_lot of extra info for the brilliant %customer_name.,Ausdruck 2 mit %a_lot von zusätzlichen Informationen für den großartigen %customer_name.
 Phrase 3,Satz 3
 Pickup Method,Versandverfahren
-Place Order,Bestellung aufgeben
+Place Order,Zahlungspflichtig bestellen
 Placed from IP,Bestellt von IP
 "Placed on <span class=""no-link"">%created_at</span>","Aufgegeben am <span class=""no-link"">%created_at</span>"
 Platinum Partners,Platin-Partner
@@ -6203,7 +6203,7 @@ Search Results,Suchergebnisse
 Search results for: '%1',"Suchergebnisse für: ""%1"""
 Search Settings,Sucheinstellungen
 Search String,Suchbegriff
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered.
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. 
 Examples: Firefox: /^mozilla/i","Suchbegriffe sind entweder normale Zeichenketten oder reguläre Ausdrücke (PCRE). Sie werden in der Reihenfolge verglichen, wie sie eingegeben werden. Beispiele: Firefox: /^mozilla/i"
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""""font-family:monospace"""">Firefox<br />/^mozilla/i</span>","Suchbegriffe sind entweder normale Strings oder reguläre Ausnahmen (PCRE). Sie werden in der gleichen Reihenfolge verglichen wie eingegeben. Beispiele: <br /> <span style = ""font-family: monospace""> Firefox <br />/^mozilla/i</span>"
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Suchbegriffe sind entweder normale Strings oder reguläre Ausnahmen (PCRE). Sie werden in der gleichen Reihenfolge verglichen wie eingegeben. Beispiele: <br /> <span style = ""font-family: monospace""> Firefox <br />/^mozilla/i</span>"
@@ -8163,7 +8163,7 @@ View Another Order,Weitere Bestellungen ansehen
 View as,Ansicht als
 View Combined Report,Zusammengefassten Report ansehen
 View Demo,Demo ansehen
-View Details,Details
+View Details,Details 
 View Full Size,Originalgröße anzeigen
 View Gift Registry %1,Geschenkeliste %1 ansehen
 View Invitation for %1 (ID: %2),Einladung für %1 (ID: %2) ansehen
@@ -8876,7 +8876,7 @@ You entered an invalid Secret Key. Please refresh the page.,Sie haben einen ung�
 "You entered an invalid type: ""%1"".","Sie haben einen ungültigen Typen angegeben: ""%1"""
 You entered incorrect data. Please try again.,Sie haben falsche Daten eingegeben. Bitte versuchen Sie es erneut.
 You flushed the cache storage.,Sie haben den Cache-Speicher geleert.
-"You get paid up front even though customers have more time to pay. A pre-integrated payment
+"You get paid up front even though customers have more time to pay. A pre-integrated payment 
 button lets customers pay quickly with PayPal Credit&#174;.","Sie erhalten Ihre Bezahlung sofort, selbst wenn Kunden mehr Zeit zum bezahlen haben. Ein vorintegrierter Bezahl-Knopf lässt Kunden schnell und unkompliziert mit Paypal Guthaben&#174; bezahlen."
 You have %1 new system message,Sie haben %1 neue Systemnachricht
 You have %1 new system messages,Sie haben %1 neue Systemmeldungen
