@@ -1396,7 +1396,10 @@ Checkout,Kasse
 "Checkout agreement with specified ID ""%1"" not found.","Checkout-Vereinbarung mit angegebener ID ""%1"" nicht gefunden."
 Checkout Cart Page,Warenkorb-Checkout-Seite
 Checkout Conditions,Checkout-Bedingungen
+Check out faster,Schneller zur Kasse gehen
 Checkout Options,Checkout-Optionen
+Checkout out as a new customer,Weiter zur Kasse als neuer Kunde
+Checkout out using your account,Weiter zur Kasse mit Ihrem Account
 Checkout Terms and Conditions,Checkout-AGB
 Checkout Totals Sort Order,Bestellsummen-Sortierreihenfolge
 Checkout Type,Checkout-Typ
@@ -1759,6 +1762,7 @@ Created on,Erstellt am
 Created On,Erstellt am
 Created:,Erstellt:
 "Created: %1, Updated: %2, Deleted: %3","Erstellt: %1, Update: %2, Gelöscht: %3"
+"Creating an account has many benefits:","Ein Konto zu erstellen hat viele Vorteile:"
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Ein Konto zu erstellen hat viele Vorteile: schneller zur Kasse gehen, mehr als eine Adresse speichern, Bestellungen verfolgen und mehr."
 Creative,Kreativ
 Credit,Kreditkarteninformationen
@@ -6230,6 +6234,7 @@ Security validation of XML document has been failed.,Sicherheits-Validierung von
 See All (,Alles sehen
 See Details,Details ansehen
 see error log for details,Details siehe Fehlerprotokoll
+See order and shipping status,Bestellungen und Sendungen verfolgen
 See price before order confirmation.,Vor Bestellbestätigung den Preis einsehen
 See terms,Allgemeine Geschäftsbedingungen ansehen
 Segment,Segment
@@ -7708,6 +7713,7 @@ Total: %1<br/>,Gesamt: %1<br/>
 Totals calculation is not applicable to empty cart,Summenberechnung ist nicht für leeren Korb anwendbar.
 Track history,Track-Verlauf
 Track Order,Bestellung verfolgen
+Track order history,Alte Bestellungen einsehen
 Track this shipment,Verfolgen Sie diese Sendung
 track_summary,track_summary
 Track:,Track:
