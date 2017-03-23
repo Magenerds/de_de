@@ -2932,7 +2932,7 @@ Forgot and Reset Email Sender,"Absender für ""Passwort vergessen""-E-Mail"
 Forgot Email Template,Vorlage für vergessene E-Mail
 Forgot Password,Passwort vergessen
 Forgot Password Email Template,"Vorlage für ""Passwort vergessen""-E-Mail"
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Haben Sie Ihr Passwort vergessen? Klicken Sie <a href=""%reset_url"">hier</a>,um es zurückzusetzen."
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Haben Sie Ihr Passwort vergessen? Klicken Sie <a href=""%reset_url"">hier</a>, um es zurückzusetzen."
 Forgot Your Password,Passwort vergessen
 Forgot Your Password?,Passwort vergessen?
 Forgot your password?,Haben Sie Ihr Passwort vergessen?
@@ -3313,7 +3313,7 @@ If there is an account associated with %1 you will receive an email with a link 
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Wenn Sie Fragen zu Ihrer Rückgabe haben, kontaktieren Sie uns bitte unter <a href=""mailto:%support_email"">%support_email</a>."
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Wenn Sie Fragen haben, kontaktieren Sie uns unter <a href=""mailto:%support_email"">%support_email</a>."
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Sollten Sie diese Änderung nicht autorisiert haben, kontaktieren Sie uns bitte umgehend unter <a href=""mailto:%store_email"">%store_email</a>"
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Wenn Sie Fragen zu Ihrer Bestellung haben, können Sie uns diese an <a href=""mailto:%store_email"">%store_email</a> schicken."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Wenn Sie Fragen zu Ihrer Bestellung haben, können Sie uns diese an <a href=""mailto:%store_email"">%store_email</a> schicken"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Wenn Sie Fragen zu Ihrer Bestellung haben, können Sie uns an <a href=""mailto:%store_email"">%store_email </a> eine E-Mail schreiben."
 "If you requested this change, reset your password here:","Wenn Sie diese Änderung beauftragt haben, setzen Sie Ihr Passwort hier neu:"
 "If you requested this change, set a new password here:","Wenn Sie diese Änderung beauftragt haben, setzen Sie hier ein neues Passwort fest:"
@@ -5727,6 +5727,7 @@ Recommended,Empfohlen
 records found,gefundene Datensätze
 Recovery Link Expiration Period (days),Recovery-Link-Ablaufdauer (Tage)
 Recovery Link Expiration Period (hours),Ablaufzeitraum des Wiederherstellungslinks (Stunden)
+Recently Ordered,Kürzlich bestellt
 Rectangular,Rechteckig
 Redeem Gift Card,Geschenkkarte einlösen
 Redeemable,Einlösbar
@@ -8933,7 +8934,7 @@ You may need more permissions to access this category.,Ihre Berechtigungen reich
 You may need more permissions to access this product.,Ihre Berechtigungen reichen nicht aus um diesen Artikel anzusehen.
 You moved the category,Sie haben die Kategorie verschoben.
 You must buy at least %1 of these per purchase.,Sie müssen mindestens %1 dieser Artikel pro Bestellung kaufen.
-You must confirm your %customer_email email before you can sign in (link is only valid once):,"Sie müssen Ihre %customer_email bestätigen, bevor Sie sich einloggen (Link ist nur einmal gültig):"
+You must confirm your %customer_email email before you can sign in (link is only valid once):,"Sie müssen Ihre %customer_email Email bestätigen, bevor Sie sich einloggen (Link ist nur einmal gültig):"
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Sie müssen Ihr Konto bestätigen. Bitte überprüfen Sie Ihr E-Mail-Postfach für den Bestätigungslink oder <a href=""%1"">klicken Sie hier</a> für einen neuen Link."
 You must select items to add to the cart.,Sie müssen Artikel auswählen um sie dem Einkaufswagen hinzufügen.
 You must specify a new version name.,Sie müssen einen neuen Versionsnamen festlegen.
