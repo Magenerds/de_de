@@ -878,6 +878,7 @@ Are you sure you want to send an invoice email to customer?,"Sind Sie sicher, da
 Are you sure you want to send an order email to customer?,"Sind Sie sicher, dass Sie eine Bestell-E-Mail an den Kunden senden möchten?"
 Are you sure you want to strip tags?,"Sind Sie sicher, dass Sie diese Tags auschneiden wollen?"
 Are you sure you want to void the payment?,"Sind Sie sicher, dass Sie die Zahlung aufheben wollen?"
+Are you sure you would like to remove this item from the shopping cart?,"Sind Sie sicher, dass Sie diesen Artikel aus dem Warenkorb entfernen möchten?"
 Are you sure?,Sind Sie sicher?
 Are you sure? This order will be canceled and a new one will be created instead.,Sind Sie sicher? Dieser Auftrag wird abgebrochen und ein neuer wird stattdessen erstellt.
 Area code is already set,Postleitzahl ist bereits gesetzt
@@ -1294,6 +1295,7 @@ Carrier,Beförderer
 "Carrier with such method not found: %1, %2","Beförderer mit solchem Verfahren nicht gefunden: %1, %2"
 Carrier:,Beförderer:
 Carrier/Method,Beförderer/Methode
+Carrier Title,Beförderer
 Cart %1 doesn't contain item  %2,Warenkorb %1 enthält nicht den Artikel %2
 Cart %1 doesn't contain products,Einkaufswagen 1% enthält keine Produkte
 Cart Attribute,Warenkorb-Attribut
@@ -4085,6 +4087,7 @@ Meter Number,Zählernummer
 "Method ""%1"" is not defined in ""%2""","Methode ""%1"" ist nicht definiert in ""%2"""
 Method %s does not exist on jQuery.decorate,Methode %s nicht auf jQuery.decorate vorhanden
 Method Name,Methodenname
+Method Title,Versandmethode
 Middle Name/Initial,Zweiter Vorname
 Min Time Between Password Reset Requests,Mindestdauer zwischen Passwort-Reset-Anfragen
 Minify CSS Files,CSS-Dateien verkürzen
@@ -4991,6 +4994,7 @@ Please choose image(s),Bitte Bild(er) wählen)
 Please confirm scope switching. All data that hasn't been saved will be lost.,Bereichswechsel bitte bestätigen. Nicht gespeicherte Daten gehen verloren.
 Please confirm site switching. All data that hasn't been saved will be lost.,Bitte bestätigen Sie den Seitenwechsel. Alle nicht gespeicherten Daten gehen verloren.
 Please confirm that you want to delete this credit card,"Bitte bestätigen Sie, dass Sie diese Kreditkarte löschen möchten."
+Please confirm your %store_name account,Bitte bestätigen Sie Ihr %store_name Konto.
 "Please correct %1 ""%2"" in the Row #%3.","Bitte %1 ""%2"" in Reihe #%3 korrigieren ."
 "Please correct Country ""%1"" in the Row #%2.","Bitte Land ""%1"" korrigieren in Reihe #%2."
 "Please correct Region/State ""%1"" in the Row #%2.","Bitte Region/Bundesland korrigieren ""%1"" in Reihe #%2."
@@ -6272,6 +6276,7 @@ Select from existing customer addresses:,Von bestehenden Kundenadressen auswähl
 Select Items,Artikel auswählen
 Select JS Files to Upload,Wählen Sie die JS-Dateien zum Hochladen
 Select Media Database,Wählen Sie die Mediendatenbank
+Select Method,Methode auswählen
 "Select object must have correct ""FROM"" part","Ausgewähltes Objekt muss korrekten ""FROM""-Teil haben"
 Select options for all attributes or remove unused attributes.,Wählen Sie Optionen für alle Attribute oder entfernen Sie ungenutzte Attribute.
 Select Page...,Seite wählen...
