@@ -1297,7 +1297,7 @@ Carrier:,Beförderer:
 Carrier/Method,Beförderer/Methode
 Carrier Title,Beförderer
 Cart %1 doesn't contain item  %2,Warenkorb %1 enthält nicht den Artikel %2
-Cart %1 doesn't contain products,Einkaufswagen 1% enthält keine Produkte
+Cart %1 doesn't contain products,Einkaufswagen %1 enthält keine Produkte
 Cart Attribute,Warenkorb-Attribut
 Cart contains virtual product(s) only. Shipping address is not applicable.,Warenkorb enthält nur virtuelle Produkte. Versandadresse ist nicht anwendbar.
 Cart contains virtual product(s) only. Shipping method is not applicable.,Warenkorb enthält nur virtuelle Produkte. Versandmethode ist nicht anwendbar.
@@ -4072,7 +4072,7 @@ Message,Nachricht
 message,Nachricht
 Message from %customer_name:,Nachricht von %customer_name:
 Message from %sender_name:,Nachricht von %sender_name:
-Message length must not exceed %1 symbols,Nachrichtenlänge darf 1% Symbole nicht überschreiten
+Message length must not exceed %1 symbols,Nachrichtenlänge darf %1 Symbole nicht überschreiten
 "Message with ""%1"" and ""%2""","Nachricht mit ""%1"" und ""%2"""
 Message with period.,Zeitraum-Nachricht
 Message:,Nachricht:
@@ -7272,7 +7272,7 @@ The order object is not specified.,Ein Bestell-Objekt ist nicht bestimmt.
 "The Order State ""%1"" must not be set manually.","Der Bestellstatus ""%1"" muss nicht manuell gesetzt werden."
 The Order Updated report is created in real time and does not require a refresh.,Der Bericht der aktualisierten Bestellungen wird in Echtzeit erstellt und benötigt keine Aktualisierung.
 The order was not on hold.,Die Bestellung war nicht in Wartestellung.
-The order was placed using %1.,Die Bestellung wurde aufgegeben mit 1%.
+The order was placed using %1.,Die Bestellung wurde aufgegeben mit %1.
 The ordering amount of %1 is pending approval on the payment gateway.,Der Bestellmenge %1 ist vorbehaltlich der Zustimmung auf dem Zahlungs-Gateway.
 The page has been deleted.,Die Seite wurde gelöscht.
 The page URL key cannot be made of only numbers.,Der URL-Schlüssel der Seite kann nicht nur aus Zahlen bestehen.
@@ -9116,7 +9116,7 @@ Your shopping cart has been updated with new prices.,Ihr Warenkorb wurde mit neu
 Your Store Credit balance is now %balance.,Ihr Guthaben beträgt nun %balance.
 Your subscription has been confirmed.,Ihr Abonnement ist bestätigt worden.
 Your Tax ID cannot be validated.,Ihre Steuer-ID konnte nicht validiert werden.
-Your VAT ID was successfully validated.,Ihre Ust-ID wurde erfolgriech validiert.
+Your VAT ID was successfully validated.,Ihre Ust-ID wurde erfolgreich validiert.
 Your web server is set up incorrectly and allows unauthorized access to sensitive files. ' 'Please contact your hosting provider.,Ihr Webserver ist fehlerhaft eingestellt. Er erlaubt nicht autorisierten Zugriff auf vertrauliche Dateien. Bitte wenden Sie sich an Ihren Hosting-Service Anbieter.
 Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,Ihr Webserver ist fehlerhaft eingestellt. Er erlaubt nicht autorisierten Zugriff auf vertrauliche Dateien. Bitte wenden Sie sich an Ihren Hosting-Service Anbieter.
 Your wish list has been shared.,Ihr Wunschzettel wurde geteilt.
