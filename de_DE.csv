@@ -4,6 +4,7 @@
 50,50
 123,123
 200,200
+" Example: "," Beispiel: "
 " Transaction ID: ""%1""","Transaktions-ID: ""%1"""
 -- All --,-- Alle --
 -- First Please Select a Website --,-- Wählen Sie bitte zunächst eine Website --
@@ -537,6 +538,7 @@ Add/Update Complex Data,Hinzufügen/Aktualisieren komplexer Daten
 Added,Hinzugefügt
 Added for spent money according to reward exchange rates.,Gemäß dem Belohnungskurs dem ausgegebenen Geld hinzugefügt
 Added On,Hinzugefügt
+Adding...,Füge hinzu...
 Additional Address Entries,Zusätzliche Adresseinträge
 Additional Attribute Table,Tabelle zusätzlicher Attribute
 Additional Cache Management,Zusätzliches Cache-Management
@@ -3305,6 +3307,7 @@ If there is an account associated with %1 you will receive an email with a link 
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Wenn Sie ein registrierter MwSt-Kunde sind, <a href=""%1"">klicken Sie bitte hier</a>, um Ihre Versandadresse für eine korrekte Mehrwehrtsteuerkalkulation einzugeben."
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","Wenn Sie ein registrierter MwSt-Kunde sind, klicken Sie bitte <a href=""%1"">hier</a>, um Ihre Rechnungsadresse für eine korrekte Mehrwehrtsteuerkalkulation einzugeben."
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Wenn Sie ein registrierter MwSt-Kunde sind, klicken Sie bitte <a href=""%1"">hier</a>, um Ihre Versandadresse für eine korrekte Mehrwehrtsteuerkalkulation einzugeben."
+"If you believe it is the right one you can ignore this notice.","Wenn sie richtig eingegeben wurde, können Sie diese Warnung ignorieren."
 "If you believe this is an error, please contact us at %1","Wenn Sie glauben, dass dies ein Fehler ist, kontaktieren Sie uns bitte unter %1"
 "If you continue to receive this message, please contact the store owner.","Wenn Sie diese Meldung weiterhin erhalten, kontaktieren Sie bitte den Shopbesitzer."
 "If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?","Wenn Sie diesen Geschenkelistentyp löschen, löschen Sie ebenfalls Kundenlisten, die diesen Typ verwenden. Möchten Sie fortfahren?"
@@ -5627,8 +5630,7 @@ Provided image name contains forbidden characters.,Der angegebene BIldname enth�
 Provided link information is invalid.,Angegebene Link-Information ist ungültig.
 "Provided link type ""%1"" does not exist","Angegebener Link-Typ ""%1"" existiert nicht."
 Provided sample information is invalid.,Die vorgesehene Sampleinformation ist ungültig.
-Provided Zip/Postal Code seems to be invalid. Example: 12345-6789; 12345. If you believe it is the right one you can ignore this notice.,"Angegebene Postleitzahl scheint ungültig zu sein. Beispiel: 12345-6789; 12345. Wenn sie richtig eingegeben wurde, können Sie diese Warnung ignorieren."
-Provided Zip/Postal Code seems to be invalid. Example: 12345. If you believe it is the right one you can ignore this notice.,"Die angegebene Postleitzahl scheint ungültig zu sein. Beispiel: 12345. Sollte sie korrekt sein, können Sie diese Warnung ignorieren."
+Provided Zip/Postal Code seems to be invalid.,Die angegebene Postleitzahl scheint ungültig zu sein.
 Proxy Host,Proxy-Host
 Proxy Port,Proxy-Port
 Public,Öffentlich
@@ -8750,7 +8752,7 @@ You applied the custom currency symbols.,Sie haben die benutzerdefinierten Währ
 You are about to delete all products in this attribute set. Are you sure you want to do that?,"Sie sind dabei, alle Produkte dieses Attributsets zu löschen. Sind Sie sicher, dass Sie dies tun wollen?"
 You are about to delete all products in this product template. ' 'Are you sure you want to do that?,Sie sind dabei alle Produkte in dieser Produktvorlagen zu löschen. Möchten Sie dies wirklich tun?
 You are not using store credit in your shopping cart.,Sie benutzen kein Shopguthaben in Ihrem Einkaufswagen.
-You are signed out.,Sie haben sich ausgeloggt.
+You are signed out,Sie haben sich ausgeloggt
 You are trying to add a quantity for some products that doesn't match the quantity that was shipped.,"Sie versuchen, eine Menge für einige Produkte hinzuzufügen, die nicht mit der Menge übereinstimmt, die geliefert wurde."
 You assigned the order status.,Sie haben den Auftragsstatus zugeordnet.
 You can add only enabled products.,Sie können nur aktivierte Produkte hinzufügen.
