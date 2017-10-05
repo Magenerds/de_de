@@ -5630,7 +5630,7 @@ Provided image name contains forbidden characters.,Der angegebene BIldname enth�
 Provided link information is invalid.,Angegebene Link-Information ist ungültig.
 "Provided link type ""%1"" does not exist","Angegebener Link-Typ ""%1"" existiert nicht."
 Provided sample information is invalid.,Die vorgesehene Sampleinformation ist ungültig.
-Provided Zip/Postal Code seems to be invalid.,Angegebene Postleitzahl scheint ungültig zu sein.
+Provided Zip/Postal Code seems to be invalid.,Die angegebene Postleitzahl scheint ungültig zu sein.
 Proxy Host,Proxy-Host
 Proxy Port,Proxy-Port
 Public,Öffentlich
