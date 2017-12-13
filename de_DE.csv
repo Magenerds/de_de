@@ -9361,7 +9361,7 @@ Variable Name,Variablen-Name,,
 Variable Plain Value,Neutraler Variablenwert,,
 Various XML configurations that were collected across modules and merged,"Verschiedene XML-Konfigurationen, die über Module gesammelt und zusammengeführt wurden.",module,Magento_Store
 Various XML configurations that were collected across modules and merged.,"Verschiedene XML-Konfigurationen, die über Module gesammelt und zusammengeführt wurden.",,
-Varnish Cache (Recommended),Geheimer Cache (empfohlen),module,Magento_PageCache
+Varnish Cache (Recommended),Varnish Cache (empfohlen),module,Magento_PageCache
 Varnish Caching,Varnish Caching,,
 Varnish Configuration,Varnish-Konfiguration,,
 VAT Number,Umsatzsteuer-Identifikationsnummer,,
@@ -10380,9 +10380,9 @@ Your billing agreement # is:,Ihre Rechnungsvereinbarungsnummer # ist:,module,Mag
 Your billing agreement # is: ,Ihre Rechnungsvereinbarungsnummer # ist:,module,Magento_Paypal
 Your billing agreement # is: %1.,Ihre Rechnungsvereinbarungsnummer ist: %1.,,
 Your Coupon was successfully applied,Gutschein wurde hinzugefügt,,
-Your coupon was successfully applied.,hr Gutschein wurde hinzugefügt.,module,Magento_SalesRule
+Your coupon was successfully applied.,Ihr Gutschein wurde hinzugefügt.,module,Magento_SalesRule
 Your Coupon was successfully removed,Gutschein wurde entfernt,,
-Your coupon was successfully removed.,hr Gutschein wurde entfernt.,module,Magento_SalesRule
+Your coupon was successfully removed.,Ihr Gutschein wurde entfernt.,module,Magento_SalesRule
 Your credit card will be charged for,Ihre Kreditkarte wird belastet mit,,
 Your Credit Memo #%creditmemo_id for Order #%order_id,Ihre Gutschrift #%creditmemo_id für die Bestellung #%order_id,,
 "Your csv file must include ""sku"" and ""qty"" columns.","Ihre CSV Datei muss eine ""SKU"" sowie ""QTY"" Spalte enthalten.",,
