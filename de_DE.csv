@@ -6275,6 +6275,7 @@ Please try again later,Bitte versuchen Sie es später erneut.,,
 Please try again with another form of payment.,Bitte versuchen Sie es noch einmal mit einer anderen Zahlart.,module,Magento_Braintree
 Please try to sign out and sign in again.,"Bitte versuchen Sie, sich neu anzumelden.",,
 Please type the letters below,Bitte geben Sie die Buchstaben unten ein.,,
+Please type the letters and numbers below,Bitte geben Sie die Buchstaben und Zahlen unten ein.,,
 Please update order data to get shipping methods and rates,"Bitte aktualisieren Sie Ihre Bestelldaten, um Versandarten und -Preise zu erhalten",,
 "Please upgrade your database: Run ""bin/magento setup:upgrade"" from the Magento root directory. %1The following modules are outdated:%2%3","Bitte die Datenbank aktualisieren: Führen Sie ""bin/magento setup:upgrade"" im Magento-Rootverzeichnis aus. %1 Die folgenden Module sind veraltet: %2%3",,
 Please use a four-digit year format.,Bitte verwenden Sie ein vierstelliges Jahresformat.,,
