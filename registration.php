@@ -11,9 +11,9 @@
  * @category   Magenerds
  * @package    magenerds_de_de
  * @subpackage Module
- * @copyright  Copyright (c) 2016 TechDivision GmbH (http://www.techdivision.com)
+ * @copyright  Copyright (c) 2019 TechDivision GmbH (https://www.techdivision.com)
  * @version    ${release.version}
- * @link       http://www.techdivision.com/
+ * @link       https://www.techdivision.com/
  * @author     Florian Sydekum <f.sydekum@techdivision.com>
  * @license    OSL 3.0
  */
