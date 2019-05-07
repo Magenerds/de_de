@@ -1,15 +1,15 @@
 {
-  "name": "magenerds/language-de_de",
-  "description": "German (Germany) language",
-  "license": "OSL-3.0",
-  "require": {
-    "magento/framework": "^100.0.0|^101.0.0|^102.0.0",
-    "magenerds/dashboard": "^1.0"
-  },
-  "type": "magento2-language",
-  "autoload": {
-    "files": [
-      "registration.php"
-    ]
-  }
+    "name": "magenerds/language-de_de",
+    "description": "German (Germany) language",
+    "license": "OSL-3.0",
+    "require": {
+        "magento/framework": "^100.0.0|^101.0.0|^102.0.0",
+        "magenerds/dashboard": "^1.0"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
 }

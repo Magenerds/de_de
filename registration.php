@@ -7,16 +7,7 @@
  * http://opensource.org/licenses/osl-3.0.php
  */
 
-/**
- * @category   Magenerds
- * @package    magenerds_de_de
- * @subpackage Module
- * @copyright  Copyright (c) 2019 TechDivision GmbH (https://www.techdivision.com)
- * @version    ${release.version}
- * @link       https://www.techdivision.com/
- * @author     Florian Sydekum <f.sydekum@techdivision.com>
- * @license    OSL 3.0
- */
+// register module
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
     'magenerds_de_de',
