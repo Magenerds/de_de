@@ -1310,9 +1310,9 @@ Are you sure?,Sind Sie sicher?,module,Magento_Shipping
 Are you sure?,Sind Sie sicher?,module,Magento_Search
 Are you sure? This order will be canceled and a new one will be created instead.,Sind Sie sicher? Dieser Auftrag wird abgebrochen und ein neuer wird stattdessen erstellt.,,
 Are you sure? This order will be canceled and a new one will be created instead.,Sind Sie sicher? Dieser Auftrag wird abgebrochen und ein neuer wird stattdessen erstellt.,module,Magento_Sales
-Area code is already set,Postleitzahl ist bereits gesetzt,,
-Area code is not set,Postleitzahl ist noch nicht gesetzt,,
-Area code not set: Area code must be set before starting a session.,Postleitzahl muss vor Beginn einer Sitzung angegeben werden,,
+Area code is already set,Area code ist bereits gesetzt,,
+Area code is not set,Area code ist noch nicht gesetzt,,
+Area code not set: Area code must be set before starting a session.,Area code muss vor Beginn einer Sitzung angegeben werden,,
 Area is already set,Bereich ist bereits gesetzt,,
 Argument type duplication in class %1 in %2%3%4,Doppelter Argumenttyp in Klasse %1 in %2%3%4,,
 arketplace,Marketplace,,
