@@ -173,8 +173,6 @@
 -- Please Select Billing Agreement--,-- Bitte wählen Sie die Abrechnungsvereinbarung --,,
 -- Select --,-- Auswählen --,,
 --Please Select--,-- Bitte auswählen --,,
-.,.,,
-. ':',. ':',module,Magento_Shipping
 ’Internal Promotions’ for promotions field “Label”.,"""Interne Promotions"" für Promotionfeld ""Label""",,
 """%1"" cannot contain more than %2 lines.","""%1"" kann nicht aus mehr als %2 Zeilen bestehen.",,
 """%1"" contains non-alphabetic characters.","""%1"" enthält nicht-alphabetische Zeichen.",,
