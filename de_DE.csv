@@ -3455,8 +3455,7 @@ File System,Dateisystem,,
 File system,Dateisystem,,
 File to Import,Datei für den Import,,
 "File with an extension ""%value%"" is protected and cannot be uploaded","Dateien mit der Erweiterung ""%value%"" sind geschützt und können nicht hochgeladen werden",,
-File you are trying to upload exceeds maximum file size limit.,"Die Datei, die sie hochladen möchten, überschreitet die maximal zulässige Dateigröße.
-",module,Magento_Ui
+"File you are trying to upload exceeds maximum file size limit.","Die Datei, die sie hochladen möchten, überschreitet die maximal zulässige Dateigröße.",module,Magento_Ui
 Filename,Dateiname,,
 Filter,Filter,,
 Filter already exists in Criteria object: %1,Filter existiert bereits für Kriterien-Objekt: %1,,
