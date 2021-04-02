@@ -3180,6 +3180,7 @@ enter your billing address for proper VAT calculation,Geben Sie Ihre Rechnungsad
 Enter your email address,E-Mail-Adresse eingeben,,
 Enter your email address.  You will receive an email with a link to reset your password.,Geben sie ihre E-Mail-Adresse ein. Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen des Passworts.,,
 enter your shipping address for proper VAT calculation,Geben Sie Ihre Versandadresse für eine korrekte Mehrwertsteuerberechnung an.,,
+"Enter your destination to get a shipping estimate.","Geben Sie Ihren Zielort an, um eine Schätzung für die Versandkosten zu erhalten.",,
 Entering no value or a value greater than the expiration lifetime disables the warning notification.,Kein eingegebener Wert oder ein Wert größer als die Verfallslaufzeit deaktiviert die Warnungsbenachrichtigung.,,
 Entity already exists,Die Einheit existiert bereits,,
 "Entity attribute with id ""%1"" not found","Entitätsattribut mit der ID ""%1"" nicht gefunden ",module,Magento_Eav
