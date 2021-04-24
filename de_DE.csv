@@ -10460,3 +10460,4 @@ We have saved your subscription.,Sie haben den Newsletter abonniert.,,,,
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","Die erforderlichen Optionen des Produkts wurden nicht eingegeben. Stellen Sie sicher, dass die Optionen eingegeben wurden und versuchen Sie es erneut.",module,Magento_Catalog
 Allow remote shopping assistance,"Remote-Einkaufsunterstützung zulassen",,
 "This allows merchants to ""see what you see"" and take actions on your behalf in order to provide better assistance.","Dies ermöglicht es dem Verkäufer, ""zu sehen, was Sie sehen"" und in Ihrem Namen entsprechende Aktionen durchzuführen, um eine bessere Kundenbetreuung zu gewährleisten.",,
+"This is a demo store. No orders will be fulfilled.","Dies ist eine Demo-Installation. Jegliche Bestellung in diesem Shop wird weder beachtet noch ausgeführt.",,
