@@ -1514,7 +1514,7 @@ base price
 {{base_url}} is not recommended to use in a production environment to declare the Base Unsecure ' 'URL / Base Secure URL. We highly recommend changing this value in your Magento ' '<a href=""""%1"""">configuration</a>.""","Basierend auf Ihren Auswahlen <span class=""new-products-count"" data-bind=""text:countVariations""></span>
 Basisbild
 Basispreis
-{{base_url}} wird in der Produktionsumgebung nicht empfohlen, um die sichere/unsicherte Basis-URL zu deklarieren. Es wird dringend empfohlen, diesen Wert in Magento zu ändern: <a href=""%1"">Konfiguration</a>.",,
+{{base_url}} wird in der Produktionsumgebung nicht empfohlen, um die sichere/unsichere Basis-URL zu deklarieren. Es wird dringend empfohlen, diesen Wert in Magento zu ändern: <a href=""%1"">Konfiguration</a>.",,
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>new products will be created. Use this step to customize images and price for your new products.","Basierend auf Ihrer Auswahl <span class=""new-products-count"" data-bind=""text:countVariations""></span> werden neue Produkte erstellt. Benutzen Sie diesen Schritt, um Bilder und Preise für Ihre neuen Produkte anzupassen.",,
 Basic Braintree Settings,Grundlegende Braintree-Einstellungen,,
 Basic Settings,Grundeinstellungen,,
