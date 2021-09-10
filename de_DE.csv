@@ -211,8 +211,8 @@
 """Invoice Document Validation Error(s):\n"" .","""Fehler bei der Gültigkeitsprüfung des Rechnungsdokuments:\n"".",module,Magento_Sales
 """Minimum Reward Points Balance"" should be either a positive number or left empty.","""Minimaler Belohnungspunktesaldo"" sollte eine positive Zahl oder leer sein.",,
 """Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""Minimaler Belohnungspunktesaldo"" sollte kleiner oder gleich ""Maximaler Belohnungspunktesaldo"" sein.",,
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Benötigen Sie einen neuen New Relic-Account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Hier klicken, um einen zu erhalten",,
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Benötigen Sie einen neuen New Relic-Account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Hier klicken, um einen zu erhalten",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Benötigen Sie einen neuen New-Relic-Account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Hier klicken, um einen zu erhalten",,
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Benötigen Sie einen neuen New-Relic-Account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Hier klicken, um einen zu erhalten",module,Magento_NewRelicReporting
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" ermöglicht eine einzige Bearbeitungsgebühr für den gesamten Auftrag. ""Per Package"" ermöglicht eine individuelle Bearbeitungsgebühr für jedes Paket.",,
 """Remember Me"" Default Value","""Remember Me""-Standardwert",,
 """Shipment Document Validation Error(s):\n"" .","""Versanddokumentvalidierungsfehler:\n"" .",module,Magento_Sales
@@ -3111,7 +3111,7 @@ Enable JavaScript Bundling,Ermöglicht die Bündelung von JavaScript,module,Mage
 Enable MAP,MAP aktivieren,,
 Enable Multiple Wish Lists,Mehrere Wunschzettel aktivieren,,
 Enable Negotiated Rates,Vereinbarte Preise aktivieren,,
-Enable New Relic Integration,New Relic Integration aktivieren,,
+Enable New Relic Integration,"""New Relic""-Integration aktivieren",,
 Enable Onepage Checkout,Onepage-Checkout aktivieren,,
 Enable Order by SKU on My Account in Storefront,"Bestellung nach SKU in ""Mein Konto"" im Frontend aktivieren",,
 Enable Page,Seite aktivieren,,
@@ -8374,8 +8374,8 @@ The message has been removed.,Die Nachricht wurde entfernt.,,
 The most money available to refund is %1.,Der maximal zur Verfügung stehende Betrag der Rückerstattung ist %1.,,
 The most you may purchase is %1.,Die Höchstmenge ist %1.,,
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","""New Relic Integration benötigt den newrelic-php5 Agenten, der nicht installiert ist. Mehr Informationen über die Installation vom Agenten <a target=""_blank"" href=""%1"">hier</a>.",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Die New Relic-Integration erfordert den newrelic-php5 Stellvertreter, der nicht installiert ist. Weitere Informationen zur Installation <a target=""_blank"" href=""%1"">hier</a>.",,
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","""New-Relic-Integration benötigt den newrelic-php5 Agenten, der nicht installiert ist. Mehr Informationen über die Installation vom Agenten <a target=""_blank"" href=""%1"">hier</a>.",module,Magento_NewRelicReporting
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Die New-Relic-Integration erfordert den newrelic-php5 Stellvertreter, der nicht installiert ist. Weitere Informationen zur Installation <a target=""_blank"" href=""%1"">hier</a>.",,
 The newsletter template has been deleted.,Die Newsletter-Vorlage wurde gelöscht.,,
 The newsletter template has been saved.,Die Newsletter-Vorlage wurde gespreichert.,,
 The nonce is already being used by the consumer with ID %1,Der Einmalwert wird bereits durch den Verbraucher mit der ID %1 verwendet,,
